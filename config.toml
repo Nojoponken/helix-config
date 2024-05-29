@@ -1,5 +1,4 @@
-
-theme = "gruvbox"
+theme = "citylights"
 
 [editor]
 bufferline = "multiple"
@@ -9,5 +8,5 @@ insert = "bar"
 normal = "block"
 select = "underline"
 
-[editor.lsp]
-display-inlay-hints = true
+[editor.file-picker]
+hidden = false
